@@ -1,11 +1,10 @@
-# Creating free tools for the Greek civil society
+# Creating tools for the Civil Society
 
 Introduction:<br>
-Inspired by Syriza's leader, Stefanos Kassealkis, who aims to empower citizens with support beyond governmental actions and the parliamentary realm, we propose the deployment of a free AI software application driven by the collaborative efforts of open-source developers. This initiative amplifies Kassealkis' aspiration for enhanced civic participation in governance and societal affairs.<br>
+Inspired by the program of Syriza's leader, Stefanos Kasselakis, to **"Strengthen the Civil Society"** and give a voice and increase resolution, we propose to support it by creating free AI-powered tools developed by a community of open-source developers.<br>
 
-Central to this initiative is a free, open-source AI Large Language Model (LLM), trained on Greek datasets, envisioned as a powerful medium to deploy tools that support society and foster civic engagement in a secure and cost-effective manner.<br>
-
-These tools enable individuals to take a more active role in shaping their lives, governance, and societal issues.<br><br>
+Central to this initiative is an open-source AI Large Language Model (LLM), trained on Greek datasets, envisioned as a powerful medium to deploy country-wide infrastructure for economic growth and services that support society and foster civic engagement in a secure and cost-effective manner. These tools will enable individuals to take a more active role in shaping their lives, governance, and societal issues.<br><br>
+This initiative enables Syriza to deploy meaningful infrastructure support to the Greek people to foster growth and recovery beyond governmental actions and the parliamentary realm.<br>
 
 ## Introducing Immediate Civic Support Tools<br>
 We can provide immediate support measures to the Greek people with the deployment of a free open-source Artificial Intelligence model trained on Greek datasets.
@@ -38,7 +37,7 @@ In essence, the "fork the government" initiative, when driven by a major politic
 
 ### Strengthening Civil Society:
 
-Objective: Empower citizens by giving them tools and platforms that allow them to take a more active role in governance and societal issues.<br><br>
+Objective: Empower citizens, and more specifically lower and middle class by giving them tools and platforms that allow them to take a more active role in creating economic growth, governance, and societal issues.<br><br>
 
 Benefits:<br>
 
