@@ -1,6 +1,6 @@
 # Creating free tools for the Greek civil society
 
-Introduction:
+Introduction:<br>
 Inspired by Syriza's leader, Stefanos Kassealkis, who aims to empower citizens with support beyond governmental actions and the parliamentary realm, we propose the deployment of a free AI software application driven by the collaborative efforts of open-source developers. This initiative amplifies Kassealkis' aspiration for enhanced civic participation in governance and societal affairs.<br>
 
 Central to this initiative is a free, open-source AI Large Language Model (LLM), trained on Greek datasets, envisioned as a powerful medium to deploy tools that support society and foster civic engagement in a secure and cost-effective manner.<br>
