@@ -1,4 +1,4 @@
-# Creating tools for the civil society
+# Creating free tools for the Greek civil society
 >Expanding on the initiative "fork the government" by Audrey Tang, Minister of Digital Affairs of Taiwan
 
 ## Summary<br>
