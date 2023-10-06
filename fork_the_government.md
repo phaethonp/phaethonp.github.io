@@ -7,10 +7,6 @@ Central to this initiative is a free, open-source AI Large Language Model (LLM),
 
 These tools enable individuals to take a more active role in shaping their lives, governance, and societal issues.<br><br>
 
-
-we aim to catalyze a modern, inclusive digital transformation in Greece, resonating with the global shift towards citizen-centric governance
-
-
 ## Introducing Immediate Civic Support Tools<br>
 We can provide immediate support measures to the Greek people with the deployment of a free open-source Artificial Intelligence model trained on Greek datasets.
 
