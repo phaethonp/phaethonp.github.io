@@ -40,7 +40,7 @@ Here's why it's transformative:<br>
 * **Creating a Community of Self-Organized Open-Source Contributors:** The initiative Foster a global community of open-source developers around the Greek LLM project.
 
 
-**Magnifying the Greek Presence Worldwide Through AI**<br>
+### Magnifying the Greek Presence Worldwide Through AI
 The Greek diaspora, Centers for Greek Studies, and Philhellenes form a vast global network. The AI Large Language Model serves as a bridge to this network, offering:
 
 * Language Support: Assisting in language learning for both native speakers and those intrigued by Greek culture.
