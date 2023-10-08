@@ -24,7 +24,7 @@ This initiative can position Syriza, and by extension Greece, as pioneers in tec
 ## A Digital Interface for Global Development
 
 
-### An Interface to Globalize Greek Culture and Opportunities**
+**An Interface to Globalize Greek Culture and Opportunities**
 Such an AI model functions as a digital Interface to program applications and services, enabling developers worldwide to delve into the Greek ecosystem. This open-source tool, akin to models like ChatGPT, becomes a bridge, connecting Greek businesses and institutions with global partners, fostering collaborations that can lead to technological advancements, research initiatives, and cultural exchanges.<br>
 
 Here's why it's transformative:<br>
@@ -40,7 +40,7 @@ Here's why it's transformative:<br>
 * **Creating a Community of Self-Organized Open-Source Contributors:** The initiative Foster a global community of open-source developers around the Greek LLM project.
 
 
-## Magnifying the Greek Presence Worldwide Through AI
+**Magnifying the Greek Presence Worldwide Through AI**
 The Greek diaspora, Centers for Greek Studies, and Philhellenes form a vast global network. The AI Large Language Model serves as a bridge to this network, offering:
 
 * Language Support: Assisting in language learning for both native speakers and those intrigued by Greek culture.
