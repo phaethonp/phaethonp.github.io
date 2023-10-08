@@ -51,7 +51,7 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
 
 
   
-## Starting Small and Cost-Efficiently  
+## Starting  with modest resources and cost-effectively  
   * Hackathons & Workshops: Organize events focused on improving the model or building applications using it.
   * Collaborative Platforms: Use platforms like GitHub for collaborative development, bug tracking, and feature suggestions.
   * Community Growth: As the model gains traction, the community of contributors will grow, leading to better improvements and innovations.
