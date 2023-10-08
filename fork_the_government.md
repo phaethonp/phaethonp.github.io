@@ -24,7 +24,7 @@ This initiative can position Syriza, and by extension Greece, as pioneers in tec
 ## A Digital Interface for Global Development
 
 
-**An Interface to Globalize Greek Culture and Opportunities**
+**An Interface to Globalize Greek Culture and Opportunities**<br>
 Such an AI model functions as a digital Interface to program applications and services, enabling developers worldwide to delve into the Greek ecosystem. This open-source tool, akin to models like ChatGPT, becomes a bridge, connecting Greek businesses and institutions with global partners, fostering collaborations that can lead to technological advancements, research initiatives, and cultural exchanges.<br>
 
 Here's why it's transformative:<br>
