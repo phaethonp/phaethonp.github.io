@@ -18,12 +18,12 @@ Specifically, we suggest the development of free AI-powered tools for civil soci
 
 # Benefits to People and Society
 
-### Tools
+### Applications 
 * Educational: Students and educators can leverage the AI model for learning, research, and academic support. *For instance, the model can assist both primary and secondary school students, as well as their teachers, with schoolwork tasks during and after school hours*.
 * Economic: Entrepreneurs can utilize the model to develop applications, products, or services, potentially leading to job creation and business growth. *Imagine a small business developing automation tools to help self-employed professionals increase their productivity using the AI model.*
 * Civic Engagement: The model can be used to create platforms for civic participation, enhancing democracy and governance. *This could manifest as AI-driven platforms where citizens can voice concerns, vote on local issues, or even get real-time updates on civic matters.* <br>
 
-### **Service Impact:** <br><br>
+### Service Impact <br><br>
 By offering tangible tech tools that can be used by every household and business, a political party can empower civil society to address everyday challenges and enhance their living standards, thereby bridging the gap between policy-making and real-world impact. 
 * *A family can use the AI tool to provide their children with access to high-level educational resources that otherwise would be beyond reach* <br>
 * Instead of waiting for the trickle-down effects of policies, people get immediate access to tools that can enhance their lives. <br>
