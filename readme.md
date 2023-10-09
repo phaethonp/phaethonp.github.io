@@ -2,8 +2,10 @@
 
 **Currently Working On:**
 * **A professional social network** that allows users to create a virtual office in minutes. It streamlines the process of sending and receiving project requests, drafting contracts, and leveraging escrow payment services to ensure secure transactions.<br>
+
 * **Non-Governmental Tools:** An initiative to create tools for the Civil Society. The vision is to strengthen civil society by developing free AI-powered tools, with a focus on an open-source AI Large Language Model trained on Greek datasets. This project aims to provide tangible tech tools accessible to all, bridging the gap between high-level policy decisions and tangible benefits, and fostering active participation from citizens in both civic matters and the broader digital transformation.<br>
-* **140m High Rise Mixed-Use Property Development:** A project focusing on developing a cost-effective solution for high-rise mixed-use development.
+
+* **140m High Rise Mixed-Use Property Development:** A project focusing on developing a cost-effective solution for high-rise mixed-use development.<br>
 
 **Background:**
 I am an architect and property developer with a deep understanding of the Architecture, Engineering, and Construction (AEC) industry. My years of experience are complemented by my software engineering skills, which I leverage to create tools for our internal projects. Some of these tools have also found utility among self-employed professionals and contractors.
