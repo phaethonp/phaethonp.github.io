@@ -10,7 +10,7 @@ Specifically, we suggest the development of free AI-powered tools for civil soci
 
 * **Open-Source:** An open-source AI model offers its underlying code freely to the public, promoting transparency, trust, and community-driven innovation. 
   * The primary advantage of open-source models is the transparency they offer: researchers, developers, and users can see exactly how the model works, which promotes trust and understanding.
-  * * Additionally, because anyone can contribute to the development and improvement of an open-source model, it can benefit from the collective expertise of the global developer community, **leading to rapid innovation and refinement**.<br>
+  * Additionally, because anyone can contribute to the development and improvement of an open-source model, it can benefit from the collective expertise of the global developer community, **leading to rapid innovation and refinement**.<br>
 
 * **Fine-Tuning Training on Greek Datasets:** We start building on an open-source pre-trained AI model and further training it on specific datasets to make it more specialized using datasets related to Greek markets, government, culture, and other relevant areas. <br>
 
