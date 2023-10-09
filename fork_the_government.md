@@ -29,7 +29,7 @@ Specifically, we suggest the development of free AI-powered tools for civil soci
 * **Foundation for Digital Infrastructure:** The tools set the groundwork for a national digital infrastructure, preparing the nation for future technological progress.
 * **Fostering Civic Involvement:** By making these tools available, the initiative promotes active participation from citizens in both civic matters and the broader digital transformation<br><br>
 
-### **A Sandbox Environment: Pioneering Citizen-Centric Solutions Outside of Parliament**<br>
+### A Sandbox Environment: Pioneering Citizen-Centric Solutions Outside of Parliament
 *A "sandbox environment" refers to a controlled ex[erimental setting where new ideas can be tested without affecting the existing system.* <br><br>
 In essence, through this initiative, a major political entity like Syriza, independent of its governmental role, takes the initiative to provide technological tools to its citizens.
 This initiative not only allows the party to fast-track solutions but also to test them in a real-world context.<br>
@@ -38,7 +38,7 @@ This initiative can position Syriza, and by extension Greece, as pioneers in tec
 
 # A Digital Interface for Greek Culture and Opportunities
 
-### **An Interface to Globalize **<br>
+### An Interface to Globalize
 Such an AI model functions as a digital Interface to program applications and services, enabling developers worldwide to delve into the Greek ecosystem. This open-source tool, akin to models like ChatGPT, becomes a bridge, connecting Greek businesses and institutions with global partners, fostering collaborations that can lead to technological advancements, research initiatives, and cultural exchanges.<br>
 
 Here's why it's transformative:<br>
@@ -70,14 +70,14 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
 
   
 ### Action Plan
-**Foundation: Start Simple and Cost-Effective**
+**Foundation: Start Simple and Cost-Effective**<br>
 
 * **Focus on Applications:** This initiative isn't about research. We aim to apply existing AI knowledge for tangible, everyday benefits.
 * **Open-Source Models:** We'll use proven models such as:
   * LLAMA family of models (by Facebook Research): Known for being both open and efficient, making them ideal for practical applications. More Info
   * MIT Liquid Neural Networks: A cutting-edge model that allows for adaptability in machine learning tasks. More Info & Research Paper
  
-**Engagement: Foster a Collaborative Environment**
+**Engagement: Foster a Collaborative Environment**<br>
   * Hackathons & Workshops: Organize events focused on improving the model or building applications using it.
   * Collaborative Platforms: Use platforms like GitHub for collaborative development, bug tracking, and feature suggestions.
  * **Creating a Community of Self-Organized Open-Source Contributors:** The heart of this initiative lies in its community-driven approach. By fostering a global community of open-source developers around the Greek LLM project, we're ensuring that the model remains dynamic, relevant, and beneficial to all<br>
