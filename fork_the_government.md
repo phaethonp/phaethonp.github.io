@@ -1,4 +1,6 @@
 # Creating tools for the Civil Society
+>"My hope is someday, when the next Aristotle is alive, we can capture the underlying worldview of that Aristotle - in a computer. And someday, some student will be able not only to read the words Aristotle wrote, but ask Aristotle a question - and get an answer!" - **Steve Jobs, 1985**.
+
 
 **Introduction:** <br>
 We propose a digital infrastructure system in alignment with Stefanos Kasselakis's vision to **"Strengthen the Civil Society."** <br> 
@@ -60,9 +62,6 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
   * Hackathons & Workshops: Organize events focused on improving the model or building applications using it.
   * Collaborative Platforms: Use platforms like GitHub for collaborative development, bug tracking, and feature suggestions.
   * Community Growth: As the model gains traction, the community of contributors will grow, leading to better improvements and innovations.
-
-
->"My hope is someday, when the next Aristotle is alive, we can capture the underlying worldview of that Aristotle - in a computer. And someday, some student will be able not only to read the words Aristotle wrote, but ask Aristotle a question - and get an answer!" - Steve Jobs, 1985.
 
 
 # References
