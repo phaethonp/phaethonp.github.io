@@ -1,5 +1,5 @@
 # Creating tools for the Civil Society
-* "My hope is someday, when the next Aristotle is alive, we can capture the underlying worldview of that Aristotle - in a computer. And someday, some student will be able not only to read the words Aristotle wrote, but ask Aristotle a question - and get an answer!" - **Steve Jobs, 1985**. *
+*"My hope is someday, when the next Aristotle is alive, we can capture the underlying worldview of that Aristotle - in a computer. And someday, some student will be able not only to read the words Aristotle wrote, but ask Aristotle a question - and get an answer!" - **Steve Jobs, 1985**.*
 
 
 **Introduction:** <br>
