@@ -51,7 +51,7 @@ Here's why it's transformative:<br>
 
 * **Open-Source Advantage:** Being open-source, akin to models like ChatGPT, it invites continuous improvement from the global developer community. This ensures the model stays<br> updated, adaptable, and innovative.<br>
 
-* **Creating a Community of Self-Organized Open-Source Contributors:** The heart of this initiative lies in its community-driven approach. By fostering a global community of open-source developers around the Greek LLM project, we're ensuring that the model remains dynamic, relevant, and beneficial to all<br>
+
 
 
 ### Magnifying the Greek Presence Worldwide Through AI
@@ -69,10 +69,18 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
 
 
   
-### Starting  with modest resources and cost-effectively  
+### Action Plan
+**Foundation: Start Simple and Cost-Effective**
+
+* **Focus on Applications:** This initiative isn't about research. We aim to apply existing AI knowledge for tangible, everyday benefits.
+* **Open-Source Models:** We'll use proven models such as:
+  * LLAMA family of models (by Facebook Research): Known for being both open and efficient, making them ideal for practical applications. More Info
+  * MIT Liquid Neural Networks: A cutting-edge model that allows for adaptability in machine learning tasks. More Info & Research Paper
+ 
+**Engagement: Foster a Collaborative Environment**
   * Hackathons & Workshops: Organize events focused on improving the model or building applications using it.
   * Collaborative Platforms: Use platforms like GitHub for collaborative development, bug tracking, and feature suggestions.
-  * Community Growth: As the model gains traction, the community of contributors will grow, leading to better improvements and innovations.
+ * **Creating a Community of Self-Organized Open-Source Contributors:** The heart of this initiative lies in its community-driven approach. By fostering a global community of open-source developers around the Greek LLM project, we're ensuring that the model remains dynamic, relevant, and beneficial to all<br>
 
 
 # References
