@@ -2,7 +2,7 @@
 *"My hope is someday, when the next Aristotle is alive, we can capture the underlying worldview of that Aristotle - in a computer. And someday, some student will be able not only to read the words Aristotle wrote, but ask Aristotle a question - and get an answer!" - **Steve Jobs, 1985**.*
 
 
-### **Introduction:** <br>
+### Introduction
 We propose a digital infrastructure system in alignment with Stefanos Kasselakis's vision to **"Strengthen the Civil Society."** <br> 
 Specifically, we suggest the development of free AI-powered tools for civil society, created by an open-source developer community. A key component of this initiative is the creation of an open-source AI Large Language Model trained on Greek datasets. <br><br>
 
