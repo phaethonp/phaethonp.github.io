@@ -72,17 +72,17 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
 
 ### What is it, and how it works
 
-* Open Source Analogy: In the world of software, "forking" refers to taking the source code from one software package and starting a separate and independent development on it. This is done to either take the software in a different direction, improve it, or adapt it to specific needs. In the context of governance, "forking" can be seen as a way of suggesting that citizens can take existing public policies, services, or datasets and adapt or improve them independently.
+* **Open Source Analogy:** In the world of software, "forking" refers to taking the source code from one software package and starting a separate and independent development on it. This is done to either take the software in a different direction, improve it, or adapt it to specific needs. In the context of governance, "forking" can be seen as a way of suggesting that citizens can take existing public policies, services, or datasets and adapt or improve them independently.
 
-* Citizen Participation: Tang's vision of "forking the government" advocates for more citizen involvement in the processes of governance. It's about empowering citizens to take active roles in shaping policies, services, and public initiatives.
+* **Citizen Participation:** Tang's vision of "forking the government" advocates for more citizen involvement in the processes of governance. It's about empowering citizens to take active roles in shaping policies, services, and public initiatives.
 
-* Digital Democracy: Audrey Tang is a strong proponent of using digital tools to enhance democracy. Tools like vTaiwan, an online platform for public deliberation, embody this ethos by allowing citizens to participate in the policy-making process directly.
+* **Digital Democracy:** Audrey Tang is a strong proponent of using digital tools to enhance democracy. Tools like vTaiwan, an online platform for public deliberation, embody this ethos by allowing citizens to participate in the policy-making process directly.
 
-* Iterative Development: Just as in software development, where updates and versions are released iteratively based on feedback and changing requirements, governance too can be seen as an iterative process. Policies and services can be continually refined based on public feedback and changing societal needs.
+* **Iterative Development:** Just as in software development, where updates and versions are released iteratively based on feedback and changing requirements, governance too can be seen as an iterative process. Policies and services can be continually refined based on public feedback and changing societal needs.
 
-* Transparency: Open source thrives on transparency, with code being accessible to all. Similarly, Tang promotes a transparent government where data, decision-making processes, and rationale are open to public scrutiny.
+* **Transparency:** Open source thrives on transparency, with code being accessible to all. Similarly, Tang promotes a transparent government where data, decision-making processes, and rationale are open to public scrutiny.
 
-* Collaboration: Just as open-source projects often involve collaboration from a global community of developers, modern governance can also benefit from collaborative efforts, drawing on expertise and perspectives from a broad cross-section of society.
+* **Collaboration:** Just as open-source projects often involve collaboration from a global community of developers, modern governance can also benefit from collaborative efforts, drawing on expertise and perspectives from a broad cross-section of society.
 
 In essence, Audrey Tang's idea of "forking the government" is about reshaping the relationship between citizens and their government, leveraging digital tools to make governance more participatory, transparent, and adaptive. It's a vision of a more agile and collaborative government, inspired by the best principles of the open-source world
 
