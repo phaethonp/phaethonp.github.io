@@ -35,5 +35,13 @@ I am an architect and property developer with a deep understanding of the Archit
 2008: Presented at the Passive Low Energy Architecture conference in Dublin on **"Low Energy Houses in Greece according to the Passive House Standards."**
 **Professional Experience:** <br>
 
-1999-2013: Founded and managed a Design and Build company with a focus on near-Zero energy housing.
+1999-2013: Founded and managed a Design and Build company with a focus on near-Zero energy housing.<br>
 1995-1999: Site Manager and Contract Administrator on large construction projects.
+
+**Clients:**
+* Hochtief AG
+* National Bank of Greece
+* Hellenic Bank
+* Astir Vouliagmenis Hotels SA
+* Private Clients
+* Athens International Airport AIA
