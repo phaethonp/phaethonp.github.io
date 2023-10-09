@@ -44,9 +44,9 @@ Here's why it's transformative:<br>
 ### Magnifying the Greek Presence Worldwide Through AI
 The Greek diaspora, Centers for Greek Studies, and Philhellenes form a vast global network. The AI Large Language Model serves as a bridge to this network, offering:
 
-* Language Support: Assisting in language learning for both native speakers and those intrigued by Greek culture.
-* Cultural Insights: Providing global access to the depth of Greek culture and history.
-* Unified Engagement: Fostering discussions and knowledge-sharing, connecting communities.
+* Language Support: Assisting in language learning for both native speakers and those intrigued by Greek culture.<br>
+* Cultural Insights: Providing global access to the depth of Greek culture and history.<br>
+* Unified Engagement: Fostering discussions and knowledge-sharing, connecting communities.<br>
 * Opportunities for Developers: The model becomes a resource for global developers to create applications centered on Greek culture, history, and language, opening up avenues for cultural exchange and business opportunities.<br>
 By utilizing this AI model, we're paving the way for a more interconnected global network that not only preserves but also amplifies the Greek presence, heritage, and influence worldwide.
 
