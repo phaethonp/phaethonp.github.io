@@ -6,6 +6,15 @@
 We propose a digital infrastructure system in alignment with Stefanos Kasselakis's vision to **"Strengthen the Civil Society."** <br> 
 Specifically, we suggest the development of free AI-powered tools for civil society, created by an open-source developer community. A key component of this initiative is the creation of an open-source AI Large Language Model trained on Greek datasets. <br><br>
 
+**What is an AI Large Language Model:** A software called a neural network that can quickly pull information, clarify tough topics, and make predictions based on its vast training.<br>
+
+**Open-Source:** An open-source AI model offers its underlying code freely to the public, promoting transparency, trust, and community-driven innovation. 
+* The primary advantage of open-source models is the transparency they offer: researchers, developers, and users can see exactly how the model works, which promotes trust and understanding. * Additionally, because anyone can contribute to the development and improvement of an open-source model, it can benefit from the collective expertise of the global developer community, **leading to rapid innovation and refinement**.<br>
+
+**Fine-Tuning Training on Greek Datasets:** We start building on an open-source pre-trained AI model and further training it on specific datasets to make it more specialized using datasets related to Greek markets, government, culture, and other relevant areas. <br>
+
+
+
 **Benefits to the Public:**
 
 * Educational: Students and educators can leverage the AI model for learning, research, and academic support. *For instance, the model can assist both primary and secondary school students, as well as their teachers, with schoolwork tasks during and after school hours*.
