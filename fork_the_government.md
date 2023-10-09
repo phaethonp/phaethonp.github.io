@@ -23,7 +23,7 @@ Specifically, we suggest the development of free AI-powered tools for civil soci
 * Economic: Entrepreneurs can utilize the model to develop applications, products, or services, potentially leading to job creation and business growth. *Imagine a small business developing automation tools to help self-employed professionals increase their productivity using the AI model.*
 * Civic Engagement: The model can be used to create platforms for civic participation, enhancing democracy and governance. *This could manifest as AI-driven platforms where citizens can voice concerns, vote on local issues, or even get real-time updates on civic matters.* <br>
 
-### Service Impact <br><br>
+### Service Impact
 * **Strengthening Civil Society:** By offering tangible tech tools accessible to all, a political party empowers every household and business to address everyday challenges and elevate their living standards. 
 * **Bridging Policy and Reality:** The initiative narrows the gap between high-level policy decisions and tangible, on-the-ground benefits, ensuring immediate advantages from technological advancements.
 * **Foundation for Digital Infrastructure:** The tools set the groundwork for a national digital infrastructure, preparing the nation for future technological progress.
