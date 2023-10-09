@@ -1,7 +1,7 @@
 # Creating tools for the Civil Society
 
 **Introduction:** <br>
-We propose a digital infrastructure system in alignment with Stefanos Kasselakis's vision to "Strengthen the Civil Society."<br> 
+We propose a digital infrastructure system in alignment with Stefanos Kasselakis's vision to **"Strengthen the Civil Society.**"<br> 
 Specifically, we suggest the development of free AI-powered tools for civil society, created by an open-source developer community. A key component of this initiative is the creation of an open-source AI Large Language Model trained on Greek datasets. <br><br>
 
 **Benefits to the Public:**
