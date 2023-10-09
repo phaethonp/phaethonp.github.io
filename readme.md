@@ -18,10 +18,11 @@ I am an architect and property developer with a deep understanding of the Archit
 
 * 2018-2020: Dived into Ethereum and WEB3 programming.<br>
 * 2017-2018: Founded a biotech startup, resulting in the submission of over 20 patent applications to USPTO.<br>
+* 2011: Started exploring the Bitcoin Blockchain and the potential of applications.<br>
 * **Experimental Low-CO2 Emissions Architecture:**<br>
 
 * 2013-2011: Designed and built a Low-Energy house in South Crete.<br>
-* 2011: Started exploring the Bitcoin Blockchain and the potential of applications.<br>
+
 * Design, Construct and Certify a unique low-cost fireproof glazing for the German Market
 
 **Education:** <br>
