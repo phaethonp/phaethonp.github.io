@@ -12,7 +12,7 @@ I am an architect and property developer with a deep understanding of the Archit
 
 **Previous Projects & Achievements:**
 
-**Startup Schools:** Participated in Pioneer.app from 2020 to 2022, focusing on building applications and startups.
+**Startup Schools:** Participated in Pioneer.app A SV accelerator from 2020 to 2022, focusing on building applications and startups.
 
 **Entrepreneurship:**
 
