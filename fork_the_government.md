@@ -31,9 +31,9 @@ By offering tangible tech tools that can be used by every household and business
 
 ### **A Sandbox Environment: Pioneering Citizen-Centric Solutions Outside of Parliament**<br>
 *A "sandbox environment" refers to a controlled ex[erimental setting where new ideas can be tested without affecting the existing system.* <br><br>
-In essence, through this initiative, a major political entity like Syriza, independent of its governmental role, takes the initiative to provide technological tools to its citizens.<br> Furthermore, it seeks to redefine the relationship between the government, political parties, and citizens, outside of traditional governmental structures.<br>
-This initiative not only allows the party to fast-track solutions but also to test them in a real-world context.
-It shifts the paradigm from a top-down approach to a more collaborative, bottom-up model, creating a sandbox environment where citizens are active contributors to their own welfare and the nation's progress. <br>By doing so, the party can demonstrate its **commitment** to **innovation** and **citizen welfare**, **even when not in power**.<br><br>
+In essence, through this initiative, a major political entity like Syriza, independent of its governmental role, takes the initiative to provide technological tools to its citizens.
+This initiative not only allows the party to fast-track solutions but also to test them in a real-world context.<br>
+It shifts the paradigm from a top-down approach to a more collaborative, bottom-up model, creating a sandbox environment where citizens are active contributors to their own welfare and the nation's progress. <br>By doing so, the party can demonstrate its **commitment** to **innovation** and **citizen welfare**, **even when not in power**.Furthermore, it seeks to redefine the relationship between the government, political parties, and citizens, outside of traditional governmental structures.<br><br>
 This initiative can position Syriza, and by extension Greece, as pioneers in tech-driven, citizen-centric governance, potentially leveling or even surpassing the standards set by other advanced nations.<br>
 
 # A Digital Global Interface to Greek Culture and Opportunities
