@@ -9,7 +9,7 @@ More specifically, we propose a non-governmental artificial intelligence initiat
 Experimental evidence suggests that exposure to tools like ChatGPT can increase job satisfaction and self-efficacy. This exposure also amplifies both concerns and excitement surrounding automation technologies.<br><br>
 All our models will be freely released for use by individuals, businesses, and the government.<br>
 
-## Let's Explore Key Concepts and Definitions through Questions and Answers
+#### Key Concepts and Definitions through Questions and Answers
 
 ### 1. Why do we need a Foundation Language Model for the Greek World?
 
