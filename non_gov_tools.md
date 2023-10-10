@@ -22,44 +22,38 @@ This 'digital super-computer' is universally accessible, enabling the delivery o
 * **A Foundational Language Model trained on Greek Language and Datasets**<br>
 An AI model trained on the Greek Language and datasets becomes a platform for innovation and productivity that is universally accessible. As the global AI landscape evolves, without a foundational Greek model, there's a risk of the language and its nuances being inadequately represented, leading to subpar AI applications for Greek speakers.  An AI-empowered economy is likely to be more competitive, innovative, and resilient. A Greek-specific AI ensures the digital preservation of the language, literature, and cultural nuances.
  
-
-
-
- 
-
 ### 2. What is Open-Source Free Software
 * **Open-Source:** An open-source AI model offers its underlying code freely to the public, promoting transparency, trust, and community-driven innovation. 
   * The primary advantage of open-source models is the transparency they offer: researchers, developers, and users can see exactly how the model works, which promotes trust and understanding.
   * Additionally, because anyone can contribute to the development and improvement of an open-source model, it can benefit from the collective expertise of the global developer community, **leading to rapid innovation and refinement**.<br>
 
+### 3. How can people benefit?
+The model can serve as a question-and-answer interface
+* **Educational:** Students and educators can leverage the AI model for learning, research, and academic support. *For instance, the model can assist both primary and secondary school students, as well as their teachers, with schoolwork tasks during and after school hours*.
 
+### What are the benefits for small and very small businesses?
+* **Economic:** Entrepreneurs can utilize the model to develop applications, products, or services, potentially leading to job creation and business growth. *Imagine a small business developing automation tools to help self-employed professionals increase their productivity using the AI model.*
+* **Civic Engagement Platforms:** The model can be used to create platforms for civic participation, enhancing democracy and governance. *This could manifest as AI-driven platforms where citizens can voice concerns, vote on local issues, or even get real-time updates on civic matters.* <br>
 
-# Benefits to People and Society
-
-### Solutions 
-* Educational: Students and educators can leverage the AI model for learning, research, and academic support. *For instance, the model can assist both primary and secondary school students, as well as their teachers, with schoolwork tasks during and after school hours*.
-* Economic: Entrepreneurs can utilize the model to develop applications, products, or services, potentially leading to job creation and business growth. *Imagine a small business developing automation tools to help self-employed professionals increase their productivity using the AI model.*
-* Civic Engagement: The model can be used to create platforms for civic participation, enhancing democracy and governance. *This could manifest as AI-driven platforms where citizens can voice concerns, vote on local issues, or even get real-time updates on civic matters.* <br>
-
-### Service Impact
+### 4. How to empower Civil Society? Deliver Free AI technology.
 * **Strengthening Civil Society:** By offering tangible tech tools accessible to all, a political party empowers every household and business to address everyday challenges and elevate their living standards. 
 * **Bridging Policy and Reality:** The initiative narrows the gap between high-level policy decisions and tangible, on-the-ground benefits, ensuring immediate advantages from technological advancements.
 * **Foundation for Digital Infrastructure:** The tools set the groundwork for a national digital infrastructure, preparing the nation for future technological progress.
 * **Fostering Civic Involvement:** By making these tools available, the initiative promotes active participation from citizens in both civic matters and the broader digital transformation<br><br>
 
-### A Sandbox Environment: Pioneering Citizen-Centric Solutions Outside of Parliament
+### What's the expected Impact on Product and Labor Markets?
+
+### 5. How to Deliver and Test Citizen-Centric Solutions Outside of Parliament
 *A "sandbox environment" refers to a controlled experimental setting where new ideas can be tested without affecting the existing system.* <br><br>
 In essence, through this initiative, a major political entity like Syriza, independent of its governmental role, takes the initiative to provide technological tools to its citizens.
 This initiative not only allows the party to fast-track solutions but also to test them in a real-world context.<br>
 It shifts the paradigm from a top-down approach to a more collaborative, bottom-up model, creating a sandbox environment where citizens are active contributors to their own welfare and the nation's progress. <br>By doing so, the party can demonstrate its **commitment** to **innovation** and **citizen welfare**, **even when not in power**.Furthermore, it seeks to redefine the relationship between the government, political parties, and citizens, outside of traditional governmental structures.<br><br>
 This initiative can position Syriza, and by extension Greece, as pioneers in tech-driven, citizen-centric governance, potentially leveling or even surpassing the standards set by other advanced nations.<br>
 
-# A Digital Interface for Greek Culture and Opportunities
+### Is this a Digital Interface for Greek Culture and Opportunities?
+Such an AI model functions as a digital Interface to program applications and services, enabling developers worldwide to delve into the Greek ecosystem. This open-source tool, akin to models like ChatGPT, becomes a bridge, connecting Greek businesses and institutions with global partners, and fostering collaborations that can lead to technological advancements, research initiatives, and cultural exchanges.<br>
 
-### An Interface to Globalize
-Such an AI model functions as a digital Interface to program applications and services, enabling developers worldwide to delve into the Greek ecosystem. This open-source tool, akin to models like ChatGPT, becomes a bridge, connecting Greek businesses and institutions with global partners, fostering collaborations that can lead to technological advancements, research initiatives, and cultural exchanges.<br>
-
-Here's why it's transformative:<br>
+## Why a Foundation Language Model is transformative?<br>
 
 * **Precision & Relevance:** Unlike generic models, a Greek-centric AI understands the nuances, idioms, and cultural references unique to Greece. This ensures accurate and contextually relevant interactions, vital for applications ranging from customer service bots to educational platforms.<br>
 
@@ -70,9 +64,7 @@ Here's why it's transformative:<br>
 * **Open-Source Advantage:** Being open-source, akin to models like ChatGPT, it invites continuous improvement from the global developer community. This ensures the model stays<br> updated, adaptable, and innovative.<br>
 
 
-
-
-### Magnifying the Greek Presence Worldwide Through AI
+### Magnifying the Greek Presence Worldwide 
 The Greek diaspora, Centers for Greek Studies, and Philhellenes form a vast global network. The AI Large Language Model serves as a bridge to this network, offering:
 
 * **Language Support:** Assisting in language learning for both native speakers and those intrigued by Greek culture.<br>
@@ -87,12 +79,13 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
 
 
   
-### Action Plan
-**Foundation: Start Simple and Cost-Effective**<br>
+### What's the Action Plan: We Start Simple and Cost-Effective
 
-* **Focus on Applications:** This initiative isn't about research. We aim to apply existing AI knowledge for tangible, everyday benefits.
+* **Focus on Applications:** This initiative isn't about research. We aim to apply existing AI knowledge for tangible, everyday benefits.<br>
+
 * **Open-Source Models:** We'll use proven models such as:
-  * LLAMA family of models (by Facebook Research): Known for being both open and efficient, making them ideal for practical applications. More Info
+  * LLAMA family of models (by Facebook Research): Known for being both open and efficient, making them ideal for practical applications. More Info<br>
+    
   * MIT Liquid Neural Networks: A cutting-edge model that allows for adaptability in machine learning tasks. More Info & Research Paper
  
 **Engagement: Foster a Collaborative Environment**<br>
@@ -101,12 +94,12 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
  * **Creating a Community of Self-Organized Open-Source Contributors:** The heart of this initiative lies in its community-driven approach. By fostering a global community of open-source developers around the Greek LLM project, we're ensuring that the model remains dynamic, relevant, and beneficial to all<br>
 
 
-# References
 
-## Fork the government movement
+
+### What is the "Fork the government" movement?
 "fork the government", a phrase coined by Audrey Tang, encapsulates a modern approach to governance that draws inspiration from the world of open-source software. We are providing our own "fork" on how to deploy non-governmental technology applications for the Greek Society and the Greek Diaspora
 
-### What is it, and how it works
+#### What is it, and how it works
 
 * **Open Source Analogy:** In the world of software, "forking" refers to taking the source code from one software package and starting a separate and independent development on it. This is done to either take the software in a different direction, improve it, or adapt it to specific needs. In the context of governance, "forking" can be seen as a way of suggesting that citizens can take existing public policies, services, or datasets and adapt or improve them independently.
 
@@ -122,8 +115,7 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
 
 In essence, Audrey Tang's idea of "forking the government" is about reshaping the relationship between citizens and their government, leveraging digital tools to make governance more participatory, transparent, and adaptive. It's a vision of a more agile and collaborative government, inspired by the best principles of the open-source world
 
-## Literature
-### Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence
+### Are there any Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence?
 https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf?utm_source=npr_newsletter&utm_medium=email&utm_content=20230508&utm_term=8392792&utm_campaign=money&utm_id=27864752&orgid=&utm_att1=
 
 ### What if AI could rebuild the middle class?
