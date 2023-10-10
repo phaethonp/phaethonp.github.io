@@ -22,11 +22,11 @@ This 'digital super-computer' is universally accessible, enabling the delivery o
 * **A Foundational Language Model trained on Greek Language and Datasets**<br>
 General AI models, such as ChatGPT, might "understand" Greek, but a dedicated model ensures a deep grasp of the language's intricacies, idioms, and nuances. A Greek-specific AI can:
 
-* **Ensure Accuracy:** Offer precise translations, content generation, and interpretations that resonate with native speakers, and analyze local news, social media, and other data sources to provide insights.
-* **Provide Tailored Solutions:** Create applications like voice assistants or recommendation systems that are finely attuned to Greek preferences and behaviors.
-* **Preserve Culture:** Digitally archive and understand Greek literature, folklore, and historical documents with a high degree of fidelity.
-* **Boost Local Businesses:** Empower small and medium-sized enterprises with AI tools that understand the local market, aiding in customer interactions and market analysis.
-* **Enhance Education:** Offer personalized learning experiences and digital tutors for Greek students, making learning more engaging and relevant.
+ * **Ensure Accuracy:** Offer precise translations, content generation, and interpretations that resonate with native speakers, and analyze local news, social media, and other data sources to provide insights.
+ * **Provide Tailored Solutions:** Create applications like voice assistants or recommendation systems that are finely attuned to Greek preferences and behaviors.
+ * **Preserve Culture:** Digitally archive and understand Greek literature, folklore, and historical documents with a high degree of fidelity.
+ * **Boost Local Businesses:** Empower small and medium-sized enterprises with AI tools that understand the local market, aiding in customer interactions and market analysis.
+ * **Enhance Education:** Offer personalized learning experiences and digital tutors for Greek students, making learning more engaging and relevant.
 
 ### 2. What is Open-Source Free Software
 * **Open-Source:** An open-source AI model offers its underlying code freely to the public, promoting transparency, trust, and community-driven innovation. 
