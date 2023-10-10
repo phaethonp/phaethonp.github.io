@@ -6,18 +6,32 @@
 We propose a public digital infrastructure system aimed at strengthening civil society, production, and labor markets. Our specific objective is the development of free AI-powered tools for civil society, created by an open-source developer community. <br> 
 
 More specifically, we propose a non-governmental artificial intelligence initiative to develop foundational language models for the Greek language. These models will be trained using state-of-the-art open-source frameworks and exclusively utilize publicly available datasets. <br><br>
-There is experimental evidence suggesting that exposure to tools like ChatGPT can increase job satisfaction and self-efficacy. This exposure also amplifies both concerns and excitement surrounding automation technologies.<br><br>
+Experimental evidence suggests that exposure to tools like ChatGPT can increase job satisfaction and self-efficacy. This exposure also amplifies both concerns and excitement surrounding automation technologies.<br><br>
 All our models will be freely released for use by individuals, businesses, and the government.<br>
 
-### Key Concepts and Definitions
+## Let's Explore Key Concepts and Definitions through Questions and Answers
 
-* **What is an AI Foundation Language Model:** A  Foundation Language Model (FLM) is a type of artificial intelligence (AI) software trained on vast amounts of text data. Its primary function is to generate human-like text based on the input it receives. This means that when you ask it a question or give it a prompt, it can generate a coherent and contextually relevant response, clarify tough topics, and make predictions based on its vast training.<br>
+### 1. Why do we need a Foundation Language Model for the Greek World?
 
+* **A Foundation Language Model is a Digital Super-Computer**<br>
+A Foundation Language Model (FLM) is a digital super-computer. Trained on vast quantities of text data, it doesn't just generate human-like text but serves as an operating system upon which diverse applications and services can be built. Developers, researchers, and businesses can then harness this foundational layer to create tailored applications, ranging from customer service bots to advanced research tools
+
+* **A Distributed Digital Infrastructure System:** <br>
+This 'digital super-computer' is universally accessible, enabling the delivery of these applications and services to a global audience. It represents not just a tool but an entire ecosystem that fosters innovation, collaboration, and global reach.
+
+* **A Foundational Language Model trained on Greek Language and Datasets**<br>
+General AI models, such as ChatGPT, might "understand" Greek, but a dedicated model ensures a deep grasp of the language's intricacies, idioms, and nuances. A Greek-specific AI can:
+
+* **Ensure Accuracy:** Offer precise translations, content generation, and interpretations that resonate with native speakers, and analyze local news, social media, and other data sources to provide insights.
+* **Provide Tailored Solutions:** Create applications like voice assistants or recommendation systems that are finely attuned to Greek preferences and behaviors.
+* **Preserve Culture:** Digitally archive and understand Greek literature, folklore, and historical documents with a high degree of fidelity.
+* **Boost Local Businesses:** Empower small and medium-sized enterprises with AI tools that understand the local market, aiding in customer interactions and market analysis.
+* **Enhance Education:** Offer personalized learning experiences and digital tutors for Greek students, making learning more engaging and relevant.
+
+### 2. What is Open-Source Free Software
 * **Open-Source:** An open-source AI model offers its underlying code freely to the public, promoting transparency, trust, and community-driven innovation. 
   * The primary advantage of open-source models is the transparency they offer: researchers, developers, and users can see exactly how the model works, which promotes trust and understanding.
   * Additionally, because anyone can contribute to the development and improvement of an open-source model, it can benefit from the collective expertise of the global developer community, **leading to rapid innovation and refinement**.<br>
-
-* **Training on Greek Datasets:** We start building on an open-source pre-trained AI model and further training it on specific datasets to make it more specialized using datasets related to Greek markets, government, culture, and other relevant areas. <br>
 
 
 
