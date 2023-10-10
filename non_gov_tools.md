@@ -9,6 +9,8 @@ More specifically, we propose a non-governmental artificial intelligence initiat
 There is experimental evidence suggesting that exposure to tools like ChatGPT can increase job satisfaction and self-efficacy. This exposure also amplifies both concerns and excitement surrounding automation technologies.<br><br>
 All our models will be freely released for use by individuals, businesses, and the government.<br>
 
+### Key Concepts and Definitions
+
 * **What is an AI Foundation Language Model:** A  Foundation Language Model (FLM) is a type of artificial intelligence (AI) software trained on vast amounts of text data. Its primary function is to generate human-like text based on the input it receives. This means that when you ask it a question or give it a prompt, it can generate a coherent and contextually relevant response, clarify tough topics, and make predictions based on its vast training.<br>
 
 * **Open-Source:** An open-source AI model offers its underlying code freely to the public, promoting transparency, trust, and community-driven innovation. 
