@@ -3,10 +3,13 @@
 
 
 ### Introduction
-We propose a digital infrastructure system in alignment with Stefanos Kasselakis's vision to **"Strengthen the Civil Society."** <br> 
-Specifically, we suggest the development of free AI-powered tools for civil society, created by an open-source developer community. A key component of this initiative is the creation of an open-source AI Large Language Model trained on Greek datasets. <br><br>
+We propose a public digital infrastructure system aimed at strengthening civil society, production, and labor markets. Our specific objective is the development of free AI-powered tools for civil society, created by an open-source developer community. <br> 
 
-* **What is an AI Large Language Model:** A Large Language Model (LLM) is a type of artificial intelligence (AI) trained on vast amounts of text data. Its primary function is to generate human-like text based on the input it receives. This means that when you ask it a question or give it a prompt, it can generate a coherent and contextually relevant response, clarify tough topics, and make predictions based on its vast training.<br>
+More specifically, we propose a non-governmental artificial intelligence initiative to develop foundational language models for the Greek language. These models will be trained using state-of-the-art open-source frameworks and exclusively utilize publicly available datasets. <br><br>
+There is experimental evidence suggesting that exposure to tools like ChatGPT can increase job satisfaction and self-efficacy. This exposure also amplifies both concerns and excitement surrounding automation technologies.<br><br>
+All our models will be freely released for use by individuals, businesses, and the government.<br>
+
+* **What is an AI Foundation Language Model:** A  Foundation Language Model (FLM) is a type of artificial intelligence (AI) software trained on vast amounts of text data. Its primary function is to generate human-like text based on the input it receives. This means that when you ask it a question or give it a prompt, it can generate a coherent and contextually relevant response, clarify tough topics, and make predictions based on its vast training.<br>
 
 * **Open-Source:** An open-source AI model offers its underlying code freely to the public, promoting transparency, trust, and community-driven innovation. 
   * The primary advantage of open-source models is the transparency they offer: researchers, developers, and users can see exactly how the model works, which promotes trust and understanding.
