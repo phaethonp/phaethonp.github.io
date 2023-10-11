@@ -42,7 +42,7 @@ The model is a super-computer with a question-and-answer interface in Greek. As 
 ### 5. How to empower Civil Society? Deliver Free AI technology.
 
 * **Strengthening Civil Society:** By offering tangible tech tools accessible to all, a political party empowers every household and business to address everyday challenges and elevate their living standards.
-* * **Civic Engagement Platforms:** The model can be used to create platforms for civic participation, enhancing democracy and governance. *This could manifest as AI-driven platforms where citizens can voice concerns, vote on local issues, or even get real-time updates on civic matters.* <br>
+* **Civic Engagement Platforms:** The model can be used to create platforms for civic participation, enhancing democracy and governance. *This could manifest as AI-driven platforms where citizens can voice concerns, vote on local issues, or even get real-time updates on civic matters.* <br>
 * **Bridging Policy and Reality:** The initiative narrows the gap between high-level policy decisions and tangible, on-the-ground benefits, ensuring immediate advantages from technological advancements.
 
 ### 6. How to Create Country-Wide Infrastructure at the speed of Light and at a Fraction of the Cost?
