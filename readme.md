@@ -95,8 +95,9 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
   * MIT Liquid Neural Networks: A cutting-edge model that allows for adaptability in machine learning tasks. More Info & Research Paper
  
 **Engagement: Foster a Collaborative Environment**<br>
-  * Hackathons & Workshops: Organize events focused on improving the model or building applications using it.
-  * Collaborative Platforms: Use platforms like GitHub for collaborative development, bug tracking, and feature suggestions.
+  * Hackathons & Workshops: We will start Organizing events focused on fine-tuning models on Greek data, and improving existing models. Then we will shift our focus to building applications utilizing these models.
+
+  * Collaborative Platforms: We will use platforms like GitHub for collaborative development, bug tracking, and feature suggestions.
  * **Creating a Community of Self-Organized Open-Source Contributors:** The heart of this initiative lies in its community-driven approach. By fostering a global community of open-source developers around the Greek LLM project, we're ensuring that the model remains dynamic, relevant, and beneficial to all<br>
 
 ### 12. What is the "Fork the Government" movement?
