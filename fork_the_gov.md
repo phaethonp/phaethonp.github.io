@@ -45,11 +45,9 @@ The model is a super-computer with a question-and-answer interface in Greek. As 
 * * **Civic Engagement Platforms:** The model can be used to create platforms for civic participation, enhancing democracy and governance. *This could manifest as AI-driven platforms where citizens can voice concerns, vote on local issues, or even get real-time updates on civic matters.* <br>
 * **Bridging Policy and Reality:** The initiative narrows the gap between high-level policy decisions and tangible, on-the-ground benefits, ensuring immediate advantages from technological advancements.
 
-### How to Create Country-Wide Infrastructure at a Fraction of the Cost?
+### 6. How to Create Country-Wide Infrastructure at the speed of Light and at a Fraction of the Cost?
 * **Foundation for Digital Infrastructure:** The tools set the groundwork for a national digital infrastructure, preparing the nation for future technological progress.
 * **Fostering Civic Involvement:** By making these tools available, the initiative promotes active participation from citizens in both civic matters and the broader digital transformation<br><br>
-
-### 6. What's the expected Impact on Production and Labor Markets?
 
 ### 7. How to Deliver and Test Citizen-Centric Solutions Outside of Parliament
 *A "sandbox environment" refers to a controlled experimental setting where new ideas can be tested without affecting the existing system.* <br><br>
@@ -101,10 +99,7 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
   * Collaborative Platforms: Use platforms like GitHub for collaborative development, bug tracking, and feature suggestions.
  * **Creating a Community of Self-Organized Open-Source Contributors:** The heart of this initiative lies in its community-driven approach. By fostering a global community of open-source developers around the Greek LLM project, we're ensuring that the model remains dynamic, relevant, and beneficial to all<br>
 
-
-
-
-### 12. What is the "Fork the government" movement?
+### 12. What is the "Fork the Government" movement?
 "fork the government", a phrase coined by Audrey Tang, encapsulates a modern approach to governance that draws inspiration from the world of open-source software. We are providing our own "fork" on how to deploy non-governmental technology applications for the Greek Society and the Greek Diaspora
 
 #### What is it, and how it works
