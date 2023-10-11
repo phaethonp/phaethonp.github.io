@@ -3,7 +3,7 @@
 
 
 ### Introduction
-We are introducing a non-governmental public digital infrastructure with the aim of reinforcing Greece's civil society, production, and labor markets. Central to this initiative is the development of foundational language models tailored for the Greek language, a project spearheaded by an open-source developer community. These models will be constructed using cutting-edge open-source frameworks, drawing solely from publicly accessible dataset. <br><br>
+We are introducing a non-governmental public digital infrastructure initiative with the aim of reinforcing Greece's civil society, production, and labor markets. Central to this initiative is the development of AI Foundation Language Models tailored for the Greek language, a project spearheaded by an open-source developer community. These models will be constructed using cutting-edge open-source frameworks, drawing solely from publicly accessible datasets. <br><br>
 
 In today's landscape, where AI-driven technologies are pervasive – from automation tools to voice assistants – speakers of underserved languages risk being overlooked. This oversight can place societies like Greece at a disadvantage, potentially limiting access to vital information, exacerbating educational disparities, and stifling economic and productivity growth..<br><br>
 
