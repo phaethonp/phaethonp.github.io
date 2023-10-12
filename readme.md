@@ -1,4 +1,4 @@
-Hi! I am <a href="https://github.com/phaethonp/phaethonp.github.io/blob/main/cv.md" target="_blank">[Phaethon Psichis]</a>, and this is where I am building a community focusing on creating tools for civil society, with the call to "**fork the government**" following the initiative of <a href="https://moda.gov.tw/en/aboutus/principal-officers/minister-tang/991">[Audrey Tang]</a>.<br> I am a member of the Greek political party  **Coalition of the Radical Left – Progressive Alliance**  <a href="https://www.syriza.gr/">[SYRIZA]</a>
+Hi! I am <a href="https://github.com/phaethonp/phaethonp.github.io/blob/main/cv.md" target="_blank">[Phaethon Psichis]</a>, and this is where I am building a community focusing on creating tools for civil society, with the call to "**fork the government**" following the initiative of <a href="https://moda.gov.tw/en/aboutus/principal-officers/minister-tang/991" target="_blank">[Audrey Tang]</a>.<br> I am a member of the Greek political party  **Coalition of the Radical Left – Progressive Alliance**  <a href="https://www.syriza.gr/" target="_blank">[SYRIZA]</a>
 Shoot me a mail if you like phaethon.psichis[at]protonmail[dot]com <br><br>
 
 
@@ -126,11 +126,11 @@ In essence, Audrey Tang's idea of "forking the government" is about reshaping th
 
 ### 13. Are there any Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence?
 
-<a href="https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf?utm_source=npr_newsletter&utm_medium=email&utm_content=20230508&utm_term=8392792&utm_campaign=money&utm_id=27864752&orgid=&utm_att1=">MIT Economics/ Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence</a>
+<a href="https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf?utm_source=npr_newsletter&utm_medium=email&utm_content=20230508&utm_term=8392792&utm_campaign=money&utm_id=27864752&orgid=&utm_att1=" target="_blank">MIT Economics/ Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence</a>
 
 ### 14. What if AI could rebuild the middle class?
 If we get our act together, the age of Artificial Intelligence could be one in which we rebuild the middle class, says MIT’s David Autor, one of the top labor economists in the world<br>
-<a href="https://goi.mit.edu/2023/05/11/what-if-ai-could-rebuild-the-middle-class/">MIT Global Opportunity Forum/ What if AI could rebuild the middle class?</a>
+<a href="https://goi.mit.edu/2023/05/11/what-if-ai-could-rebuild-the-middle-class/" target="_blank">MIT Global Opportunity Forum/ What if AI could rebuild the middle class?</a>
 
 ### 15. KPI's: Measuring the impact of Digital AI Tools on society and individual families
 By combining quantitative metrics with qualitative insights, we can get a comprehensive understanding of the initiative's societal impact and its direct effects on individual families.<br>
