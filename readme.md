@@ -95,9 +95,9 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
 * **Focus on Applications:** This initiative isn't about research. We apply existing AI knowledge for tangible, everyday benefits.<br>
 
 * **Open-Source Models:** We'll use proven models such as:
-  * <a href="https://ai.meta.com/llama/">LLAMA family of models (by Facebook Research)</a>: Known for being both open and efficient, available for free for research and commercial use making them ideal for practical applications<br>
+  * <a href="https://ai.meta.com/llama/" target="_blank">LLAMA family of models (by Facebook Research)</a>: Known for being both open and efficient, available for free for research and commercial use making them ideal for practical applications<br>
     
-  * <a href="https://spectrum.ieee.org/liquid-neural-networks">MIT Liquid Neural Networks</a>: A cutting-edge model that allows for adaptability in machine learning tasks. More Info & Research Paper
+  * <a href="https://spectrum.ieee.org/liquid-neural-networks" target="_blank">MIT Liquid Neural Networks</a>: A cutting-edge model that allows for adaptability in machine learning tasks. More Info & Research Paper
  
 **Engagement: Foster a Collaborative Environment**<br>
   * Hackathons & Workshops: We will start Organizing events focused on fine-tuning models on Greek data, and improving existing models. Then we will shift our focus to building applications utilizing these models.
