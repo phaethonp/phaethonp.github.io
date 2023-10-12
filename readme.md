@@ -92,7 +92,7 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
   
 ### 11. What's the Action Plan: We Start Simple and Cost-Effective
 
-* **Focus on Applications:** This initiative isn't about research. We aim to apply existing AI knowledge for tangible, everyday benefits.<br>
+* **Focus on Applications:** This initiative isn't about research. We apply existing AI knowledge for tangible, everyday benefits.<br>
 
 * **Open-Source Models:** We'll use proven models such as:
   * <a href="https://ai.meta.com/llama/">LLAMA family of models (by Facebook Research)</a>: Known for being both open and efficient, available for free for research and commercial use making them ideal for practical applications<br>
