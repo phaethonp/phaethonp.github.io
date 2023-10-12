@@ -95,9 +95,9 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
 * **Focus on Applications:** This initiative isn't about research. We aim to apply existing AI knowledge for tangible, everyday benefits.<br>
 
 * **Open-Source Models:** We'll use proven models such as:
-  * LLAMA family of models (by Facebook Research): Known for being both open and efficient, making them ideal for practical applications. More Info<br>
+  * <a href="https://ai.meta.com/llama/">LLAMA family of models (by Facebook Research)</a>: Known for being both open and efficient, available for free for research and commercial use making them ideal for practical applications<br>
     
-  * MIT Liquid Neural Networks: A cutting-edge model that allows for adaptability in machine learning tasks. More Info & Research Paper
+  * <a href="https://spectrum.ieee.org/liquid-neural-networks">MIT Liquid Neural Networks</a>: A cutting-edge model that allows for adaptability in machine learning tasks. More Info & Research Paper
  
 **Engagement: Foster a Collaborative Environment**<br>
   * Hackathons & Workshops: We will start Organizing events focused on fine-tuning models on Greek data, and improving existing models. Then we will shift our focus to building applications utilizing these models.
@@ -125,17 +125,18 @@ By utilizing this AI model, we're paving the way for a more interconnected globa
 In essence, Audrey Tang's idea of "forking the government" is about reshaping the relationship between citizens and their government, leveraging digital tools to make governance more participatory, transparent, and adaptive. It's a vision of a more agile and collaborative government, inspired by the best principles of the open-source world
 
 ### 13. Are there any Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence?
-https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf?utm_source=npr_newsletter&utm_medium=email&utm_content=20230508&utm_term=8392792&utm_campaign=money&utm_id=27864752&orgid=&utm_att1=
+
+<a href="https://economics.mit.edu/sites/default/files/inline-files/Noy_Zhang_1.pdf?utm_source=npr_newsletter&utm_medium=email&utm_content=20230508&utm_term=8392792&utm_campaign=money&utm_id=27864752&orgid=&utm_att1=">MIT Economics/ Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence</a>
 
 ### 14. What if AI could rebuild the middle class?
-https://goi.mit.edu/2023/05/11/what-if-ai-could-rebuild-the-middle-class/
+If we get our act together, the age of Artificial Intelligence could be one in which we rebuild the middle class, says MIT’s David Autor, one of the top labor economists in the world<br>
+<a href="https://goi.mit.edu/2023/05/11/what-if-ai-could-rebuild-the-middle-class/">MIT Global Opportunity Forum/ What if AI could rebuild the middle class?</a>
 
-# 15. KPI's
-### Measuring the impact of Digital AI Tools on society and individual families<br>
+### 15. KPI's: Measuring the impact of Digital AI Tools on society and individual families
 By combining quantitative metrics with qualitative insights, we can get a comprehensive understanding of the initiative's societal impact and its direct effects on individual families.<br>
 
 
-### Societal KPIs:<br>
+**Societal KPIs:**<br>
 
 1. Adoption Rate:
 * Metric: Number of downloads or users of the provided tools or platforms.
@@ -162,7 +163,7 @@ By combining quantitative metrics with qualitative insights, we can get a compre
 * Method: Surveys, social media sentiment analysis, and feedback forms.
 
   
-### Impact on Families:
+**Impact on Families:** <br>
 
 1. Economic Upliftment:
 
@@ -185,7 +186,7 @@ By combining quantitative metrics with qualitative insights, we can get a compre
 * Metric: Perceived improvement in the quality of life or daily activities.
 * Method: Qualitative interviews with families, feedback forms, or focus group discussions.
 
-### General Impact Measurement Strategies:
+**General Impact Measurement Strategies:** <br>
 
 * Baseline Data: Before launching the initiative, gather data on the current status (e.g., current economic conditions, educational outcomes). This will allow for a comparative analysis post-implementation.
 
