@@ -1,7 +1,8 @@
 ### Phaethon Psichis
 
 Currently Working On:
-* **A professional social network:** Connecting skilled professionals with opportunities and clients. Whether you're a freelancer, a consultant, or run a small office, there are numerous resources available to help you grow your business and client base. Create a virtual office in minutes, fix contracts, buy and sell services, pay and get paid securely. <br>
+
+* **Wise Work: integrating payments and contracts into a virtual office space:** Connecting skilled professionals with opportunities and clients. Whether you're a freelancer, a consultant, or run a small office, there are numerous resources available to help you grow your business and client base. Create a virtual office in minutes, fix contracts, buy and sell services, pay and get paid securely. <br>
 
 * **Fork the Goverment:** An initiative to create tools for the Civil Society. The vision is to strengthen civil society by developing a Foundation Large Model for the Greek Language trained on Greek datasets. This project aims to provide tangible tech tools accessible to all, bridging the gap between high-level policy decisions and tangible benefits, and fostering active participation from citizens in both civic matters and the broader digital transformation.<br>
 
