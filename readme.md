@@ -2,8 +2,9 @@ Hi! I am <a href="https://github.com/phaethonp/phaethonp.github.io/blob/main/cv.
 Shoot me a mail if you like phaethon.psichis[at]protonmail[dot]com <br><br>
 
 
+# Creating Tools and Policies for Civil Society
+### Leading the Country's and EU's First AI Public Infrastructure Project and Developing Supporting Policies
 
-# Creating tools and policies for the Civil Society
 *"My hope is someday, when the next Aristotle is alive, we can capture the underlying worldview of that Aristotle - in a computer. And someday, some student will be able not only to read the words Aristotle wrote, but ask Aristotle a question - and get an answer!" - **Steve Jobs, 1985**.*
 
 
